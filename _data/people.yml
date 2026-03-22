@@ -2,20 +2,20 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
+    display_name: "李继璇 Jixuan Li"
     github: xiaohang007
-    role: faculty
-    image: /img/people/new_image.jpg
-    bio: 助理教授  Assistant Professor
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+    role: 
+    image: /img/people/jixuan.jpg
+    bio: 
+    webpage: 
 
-profx:
-    display_name: "肖航  Hang Xiao"
-    github: xiaohang007
-    role: faculty
-    image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+# profx:
+#     display_name: "肖航  Hang Xiao"
+#     github: xiaohang007
+#     role: faculty
+#     image: /img/people/hang.jpg
+#     bio: 助理教授  Assistant Professor
+#     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 # scott:
 #     display_name: "Scott Summers"
@@ -44,11 +44,11 @@ profx:
 #     role: grad
 #     image: /img/people/kedeng.jpg
 
-storm:
-     jixuan:
-       display_name: "李继璇 Jixuan Li"
-       role: grad
-       image： /img/people/jixuan.jpg
+# storm:
+#      jixuan:
+#        display_name: "李继璇 Jixuan Li"
+#        role: grad
+#        image： /img/people/jixuan.jpg
 
 
 # alum-a:
